@@ -1,0 +1,5 @@
+Building Quark
+
+See doc/build-*.md for instructions on building quarkd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Quark.
